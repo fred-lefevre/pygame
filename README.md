@@ -10,3 +10,6 @@
 
 - Chaque épisode est une étape de l'apprentissage du module "pygame".
 
+Voici les différents épisodes :
+
+1. Installer le module pygame

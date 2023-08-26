@@ -1,0 +1,8 @@
+# Ouverture de la console du système :
+# Menu Outils > Ouvrir la console du système
+
+# Information à propos du module "pygame"
+pip show pygame
+
+# Installation du module "pygame"
+pip install pygame
