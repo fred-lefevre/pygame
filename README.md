@@ -19,3 +19,4 @@
 Voici les différents épisodes :
 
 1. Installer le module pygame
+2. Afficher une première fenêtre
