@@ -10,6 +10,8 @@
 
 - Ce dépôt contient tous les fichiers utilisés dans la playlist YouTube "Initiation à Pygame" dont l'URL est https://www.youtube.com/playlist?list=PLQsTrO2pHmL65LzU57vvBzGaMuvmPrT_Q
 
+- Le fichier `Initiation-Pygame.pdf` contient les URL des vidéos de chaque épisode.
+
 ## 👀 Les épisodes
 
 - Chaque épisode est une étape de l'apprentissage du module "pygame".
