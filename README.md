@@ -21,3 +21,4 @@ Voici les différents épisodes :
 1. Installer le module pygame
 2. Afficher une première fenêtre
 3. Arrêter le script avec l'événement QUIT
+4. Dessiner des rectangles
