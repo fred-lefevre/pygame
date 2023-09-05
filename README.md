@@ -23,3 +23,4 @@ Voici les différents épisodes :
 3. Arrêter le script avec l'événement QUIT
 4. Dessiner des rectangles
 5. Afficher des images
+6. Réagir aux événements souris
