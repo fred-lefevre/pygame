@@ -24,3 +24,4 @@ Voici les différents épisodes :
 4. Dessiner des rectangles
 5. Afficher des images
 6. Réagir aux événements souris
+7. Afficher une image quand on clique
