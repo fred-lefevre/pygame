@@ -25,3 +25,4 @@ Voici les différents épisodes :
 5. Afficher des images
 6. Réagir aux événements souris
 7. Afficher une image quand on clique
+8. Dessiner des formes géométriques
