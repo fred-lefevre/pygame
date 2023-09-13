@@ -18,13 +18,14 @@
 
 Voici les différents épisodes :
 
-1. Installer le module pygame
-2. Afficher une première fenêtre
-3. Arrêter le script avec l'événement QUIT
-4. Dessiner des rectangles
-5. Afficher des images
-6. Réagir aux événements souris
-7. Afficher une image quand on clique
-8. Dessiner des formes géométriques
-9. Dessiner un cercle avec la souris
+ 1. Installer le module pygame
+ 2. Afficher une première fenêtre
+ 3. Arrêter le script avec l'événement QUIT
+ 4. Dessiner des rectangles
+ 5. Afficher des images
+ 6. Réagir aux événements souris
+ 7. Afficher une image quand on clique
+ 8. Dessiner des formes géométriques
+ 9. Dessiner un cercle avec la souris
 10. Afficher du texte
+11. Réagir aux événements clavier
