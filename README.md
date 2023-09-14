@@ -29,3 +29,4 @@ Voici les différents épisodes :
  9. Dessiner un cercle avec la souris
 10. Afficher du texte
 11. Réagir aux événements clavier
+12. Jouer un son
