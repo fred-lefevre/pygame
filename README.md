@@ -30,3 +30,4 @@ Voici les différents épisodes :
 10. Afficher du texte
 11. Réagir aux événements clavier
 12. Jouer un son
+13. Jouer un son quand on presse une voyelle
