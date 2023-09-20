@@ -31,3 +31,4 @@ Voici les différents épisodes :
 11. Réagir aux événements clavier
 12. Jouer un son
 13. Jouer un son quand on presse une voyelle
+14. Cliquer dans un rectangle ... ou non
