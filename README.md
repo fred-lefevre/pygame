@@ -33,3 +33,4 @@ Voici les différents épisodes :
 13. Jouer un son quand on presse une voyelle
 14. Cliquer dans un rectangle ... ou non
 15. Supprimer des rectangles quand on clique dessus
+16. Afficher un score
