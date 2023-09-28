@@ -35,3 +35,4 @@ Voici les différents épisodes :
 15. Supprimer des rectangles quand on clique dessus
 16. Afficher un score
 17. Afficher un compte à rebours
+18. Faire défiler un texte
