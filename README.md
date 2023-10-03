@@ -36,3 +36,4 @@ Voici les différents épisodes :
 16. Afficher un score
 17. Afficher un compte à rebours
 18. Faire défiler un texte
+19. Afficher des rectangles sans recouvrement
