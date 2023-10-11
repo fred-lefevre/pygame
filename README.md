@@ -38,4 +38,4 @@ Voici les différents épisodes :
 18. Faire défiler un texte
 19. Afficher des rectangles sans recouvrement
 20. Afficher une portion d'image
-
+21. Choisir la transparence ou l'opacité d'une image
