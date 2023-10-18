@@ -40,3 +40,4 @@ Voici les différents épisodes :
 20. Afficher une portion d'image
 21. Choisir la transparence ou l'opacité d'une image
 22. Faire défiler une image
+23. Utiliser des sprites
