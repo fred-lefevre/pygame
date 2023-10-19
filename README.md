@@ -41,3 +41,4 @@ Voici les différents épisodes :
 21. Choisir la transparence ou l'opacité d'une image
 22. Faire défiler une image
 23. Utiliser des sprites
+24. Choisir dynamiquement un personnage
