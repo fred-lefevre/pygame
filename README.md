@@ -42,3 +42,4 @@ Voici les différents épisodes :
 22. Faire défiler une image
 23. Utiliser des sprites
 24. Choisir dynamiquement un personnage
+25. Changer la vitesse de déplacement
